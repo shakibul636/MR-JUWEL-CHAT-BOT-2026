@@ -2,7 +2,7 @@ module.exports.config = {
   name: "joinnoti",
   eventType: ["log:subscribe"],
   version: "7.1.0",
-  credits: "乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐",
+  credits: "乛md shakibul Hassan ",
   description: "Ultra Join System + VIP + Daily Report + 10 Frame Auto System",
   dependencies: {
     "axios": "",
