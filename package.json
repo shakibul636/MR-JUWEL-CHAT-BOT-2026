@@ -1,8 +1,8 @@
 {
-  "name": "juwel-chat-bot",
+  "name": "shakibul-chat-bot",
   "version": "2.0.0",
   "description": "Shakibul  ",
-  "main": "Juwel.js",
+  "main": "shakibul.Hassan ",
   "engines": {
     "node": "22.x",
     "npm": ">=10.0.0 <13.0.0"
@@ -22,17 +22,17 @@
     "juwelproject",
     "messenger",
     "javascript",
-    "juwel",
-    "mrjuwel",
-    "mr juwel",
-    "mr juwel bot"
+    "shakibul",
+    "md shakibul",
+    "md shakibul",
+    "md shakibul chat bot"
   ],
-  "author": "MR JUWEL",
+  "author": "MD Shakibul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mr-JUWEL-CHAT-BOT/JUWEL-CHAT-BOT2026/issues"
+    "url": "https://github.com/md-shakibul-CHAT-BOT/SHAKIBUL-CHAT-BOT2026/issues"
   },
-  "homepage": "https://github.com/MR-JUWEL-CHAT-BOT/JUWEL-CHAT-BOT2026#readme",
+  "homepage": "https://github.com/md-shakibul-CHAT-BOT/SHAKIBUL -CHAT-BOT2026#readme",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
