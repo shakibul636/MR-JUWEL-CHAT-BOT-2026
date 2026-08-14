@@ -1,4 +1,4 @@
-# ─⃞𝐉𝐔𝐖𝐄𝐋-𝐂𝐇𝐀𝐓-𝐁𝐎𝐓🪽
+# ─⃞shakibul Hassan🪽
 ### ⚡ Ultra Premium Messenger Automation System
 
 ---
@@ -65,7 +65,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=FF4D4D&center=true&vCenter=true&width=600&lines=Automation+System;Group+%26+Inbox+Control;Smart+AI+Features" />
 </p>
 
-**JUWEL CHAT BOT** একটি advanced Messenger automation system যা group এবং inbox smartভাবে control করে।
+**SHAKIBUL HASSAN** একটি advanced Messenger automation system যা group এবং inbox smartভাবে control করে।
 
 ---
 
