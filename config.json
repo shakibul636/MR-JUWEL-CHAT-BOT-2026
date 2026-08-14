@@ -1,5 +1,5 @@
 {
-  "Author": "MR JUWEL",
+  "Author": "Md shakibul",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,15 +11,15 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "━━━⃞⃟😽ꤪ𝐌⃞⃟𝆠፝֟𝐑༊𝐉⃞⃟𝆠፝֟𝐔𝐖𝐄⃞⃟𝆠፝֟𝐋🎀⃞⃟࿐",
+  "BOTNAME": "━━━shakibul chat bot࿐",
   "PREFIX": "/",
-  "reactUnsend": ["😡", "❌", "🤬", "😠"],
+  "reactUnsend": ["😡"],
   "ADMINBOT": [
-    "61592716197470",
-    "100092637421275",
-    "61592716197470"
+    "61580594115259",
+    "61580594115259",
+    "61580594115259"
   ],
-  "NDH": ["61592716197470"],
+  "NDH": ["61580594115259"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
