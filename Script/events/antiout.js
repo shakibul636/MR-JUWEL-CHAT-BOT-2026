@@ -2,7 +2,7 @@ module.exports.config = {
   name: "antiout",
   eventType: ["log:unsubscribe"],
   version: "2.1.0",
-  credits: "𝐌𝐑 𝐉𝐔𝐖𝐄𝐋",
+  credits: "MD SHAKIBUL",
   description: "Anti leave funny limit system"
 };
 
