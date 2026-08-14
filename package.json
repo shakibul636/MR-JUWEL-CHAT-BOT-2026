@@ -1,14 +1,14 @@
 {
   "name": "juwel-chat-bot",
   "version": "2.0.0",
-  "description": "Made By MR JUWEL ",
+  "description": "Shakibul  ",
   "main": "Juwel.js",
   "engines": {
     "node": "22.x",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-    "start": "node Juwel.js",
+    "start": "node shakibul.js",
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
