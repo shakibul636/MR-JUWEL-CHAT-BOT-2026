@@ -2,7 +2,7 @@ module.exports.config = {
   name: "leave",
   eventType: ["log:unsubscribe"],
   version: "3.0.0",
-  credits: "𝐌𝐑 𝐉𝐔𝐖𝐄𝐋",
+  credits: "MD Shakibul",
   description: "Kick detect with kicker name + frame + cooldown",
   dependencies: {
     "fs-extra": "",
