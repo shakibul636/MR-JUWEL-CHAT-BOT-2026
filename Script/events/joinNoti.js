@@ -111,7 +111,7 @@ module.exports.run = async function ({ api, event, Users }) {
 🎀 বিনোদন দিবো, কথা বলবো, মজা করবো
 
 💠 𝐏𝐫𝐞𝐟𝐢𝐱 : ${prefix}
-👑 𝐎𝐰𝐧𝐞𝐫 : 乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐
+👑 𝐎𝐰𝐧𝐞𝐫 : 乛 M𝆠፝֟D SHAHIDUL〲
 
 ━━━━━━━━━━━━━━━━━━
 
