@@ -2,7 +2,7 @@ module.exports.config = {
  name: "fork",
  version: "2.0.4",
  hasPermssion: 0,
- credits: "乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐",
+ credits: "乛 M𝆠፝֟D ཐི༏ཋྀ shakibꜛཐི༏ཋྀ࿐",
  description: "Stable fork system",
  commandCategory: "other",
  usages: "fork",
@@ -19,14 +19,14 @@ module.exports.run = async function({ api, event }) {
 
  const msg = `
 ━━━━━━━━━━━━━━━━━━━━━━
-乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐
+乛 M𝆠፝֟D ཐི༏ཋྀ SHAKIBULꜛཐི༏ཋྀ࿐
 𝗕𝗢𝗦𝗦 𝗔𝗥 𝗙𝗢𝗥𝗞 𝗟𝗶𝗡𝗞
 ━━━━━━━━━━━━━━━━━━━━━━
 
 📌 Repo: ${repoLink}
 
 ━━━━━━━━━━━━━━━━━━━━━━
-𝗠𝗥 𝗝𝗨𝗪𝗘𝗟 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧
+𝗠D SHAKIBUL  𝗖𝗛𝗔𝗧 𝗕𝗢𝗧
 ━━━━━━━━━━━━━━━━━━━━━━
 `;
 
